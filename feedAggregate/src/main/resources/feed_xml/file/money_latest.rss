@@ -5,7 +5,7 @@
 <description>From CNN and Money magazine, CNNMoney.com combines business news and in-depth market analysis with practical advice and answers to personal finance questions.</description>
 <language>en-us</language>
 <copyright>© 2013 Cable News Network LP, LLLP.</copyright>
-<pubDate>Mon, 02 Sep 2013 13:30:53 EDT</pubDate>
+<pubDate>Mon, 02 Sep 2013 18:44:21 EDT</pubDate>
 <ttl>10</ttl>
 <image>
 <title>Latest financial news - CNNMoney.com</title>
@@ -16,6 +16,13 @@
 <description>From CNN and Money magazine, CNNMoney.com combines business news and in-depth market analysis with practical advice and answers to personal finance questions.</description>
 </image>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://rss.cnn.com/rss/money_latest" /><feedburner:info uri="rss/money_latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+<title>Time Warner Cable and CBS reach deal to end blackout</title>
+<link>http://rss.cnn.com/~r/rss/money_latest/~3/7lvl4D8oCHQ/index.html</link>
+<guid isPermaLink="false">http://money.cnn.com/2013/09/02/news/companies/time-warner-cable-cbs-deal/index.html</guid>
+<description>Read full story for latest details.&lt;img src="http://feeds.feedburner.com/~r/rss/money_latest/~4/7lvl4D8oCHQ" height="1" width="1"/&gt;</description>
+<pubDate>Mon, 02 Sep 2013 18:38:00 EDT</pubDate>
+<feedburner:origLink>http://money.cnn.com/2013/09/02/news/companies/time-warner-cable-cbs-deal/index.html</feedburner:origLink></item>
+<item>
 <title>Vodafone investors get $84 billion windfall</title>
 <link>http://rss.cnn.com/~r/rss/money_latest/~3/Q3eS14RfF10/index.html</link>
 <guid isPermaLink="false">http://money.cnn.com/2013/09/02/investing/vodafone-shareholder-payout/index.html</guid>
@@ -167,12 +174,4 @@
 <description>Read full story for latest details.&lt;img src="http://feeds.feedburner.com/~r/rss/money_latest/~4/UaVA6RX9UQA" height="1" width="1"/&gt;</description>
 <pubDate>Thu, 29 Aug 2013 17:04:13 EDT</pubDate>
 <feedburner:origLink>http://money.cnn.com/2013/08/29/pf/taxes/same-sex-marriage-tax/index.html</feedburner:origLink></item>
-<item>
-<title>43% pay no federal income taxes</title>
-<link>http://rss.cnn.com/~r/rss/money_latest/~3/U3iBIhXfwmU/index.html</link>
-<guid isPermaLink="false">http://money.cnn.com/2013/08/29/pf/taxes/who-doesnt-pay-federal-income-taxes/index.html</guid>
-<media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/130829133157-household-federal-taxes-120x90.png" height="90" width="120" />
-<description>Read full story for latest details.&lt;img src="http://feeds.feedburner.com/~r/rss/money_latest/~4/U3iBIhXfwmU" height="1" width="1"/&gt;</description>
-<pubDate>Thu, 29 Aug 2013 14:08:00 EDT</pubDate>
-<feedburner:origLink>http://money.cnn.com/2013/08/29/pf/taxes/who-doesnt-pay-federal-income-taxes/index.html</feedburner:origLink></item>
 </channel></rss>
