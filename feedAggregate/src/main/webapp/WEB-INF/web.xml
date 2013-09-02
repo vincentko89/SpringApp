@@ -10,10 +10,6 @@
     <param-name>contextConfigLocation</param-name>
     <param-value>WEB-INF/applicationContext.xml</param-value>
   </context-param>
-  
-      <welcome-file-list>
-        <welcome-file>index.jsp</welcome-file>
-    </welcome-file-list>
      
   <listener>
     <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
@@ -27,6 +23,6 @@
   
     <servlet-mapping>
         <servlet-name>spring-ws</servlet-name>
-        <url-pattern>/web/*</url-pattern>
+        <url-pattern>*.html</url-pattern>
     </servlet-mapping> 
 </web-app>

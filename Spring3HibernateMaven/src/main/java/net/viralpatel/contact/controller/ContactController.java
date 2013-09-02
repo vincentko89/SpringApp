@@ -34,7 +34,7 @@ public class ContactController {
 
 		contactService.addContact(contact);
 
-		return "redirect:/index";
+		return "redirect:/index.html";
 	}
 
 	@RequestMapping("/delete/{contactId}")
@@ -43,6 +43,6 @@ public class ContactController {
 
 		contactService.removeContact(contactId);
 
-		return "redirect:/index";
+		return "redirect:/index.html";
 	}
 }

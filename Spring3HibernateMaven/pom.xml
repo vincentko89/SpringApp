@@ -51,11 +51,31 @@
       <artifactId>spring-orm</artifactId>
       <version>${org.springframework.version}</version>
     </dependency>
-	<dependency>
+<dependency>
+	<groupId>org.hibernate</groupId>
+	<artifactId>hibernate-entitymanager</artifactId>
+	<version>3.2.0.ga</version>
+</dependency>
+<dependency>
+	<groupId>org.hibernate</groupId>
+	<artifactId>hibernate-core</artifactId>
+	<version>3.3.0.GA</version>
+</dependency>
+<dependency>
+	<groupId>org.hibernate</groupId>
+	<artifactId>hibernate-annotations</artifactId>
+	<version>3.2.0.ga</version>
+</dependency>
+<!-- 	<dependency>
 		<groupId>org.hibernate</groupId>
-		<artifactId>hibernate-entitymanager</artifactId>
-		<version>4.2.4.Final</version>
-    </dependency>
+		<artifactId>hibernate-commons-annotations</artifactId>
+		<version>3.2.0.Final</version>
+	</dependency> -->
+ 		<dependency>
+			<groupId>jboss</groupId>
+			<artifactId>javassist</artifactId>
+			<version>3.7.ga</version>
+		</dependency>          
     <!-- dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-log4j12</artifactId>
